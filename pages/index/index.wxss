@@ -1,0 +1,27 @@
+/* 首页样式 */
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 40rpx;
+}
+
+.welcome {
+  text-align: center;
+}
+
+.welcome-title {
+  display: block;
+  font-size: 40rpx;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 20rpx;
+}
+
+.welcome-desc {
+  display: block;
+  font-size: 28rpx;
+  color: var(--text-light);
+}

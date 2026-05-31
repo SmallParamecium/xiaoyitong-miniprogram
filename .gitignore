@@ -1,0 +1,22 @@
+# 微信小程序
+miniprogram_npm/
+node_modules/
+
+# 微信开发者工具
+.wechat_devtools/
+
+# 云函数依赖
+cloudfunctions/**/node_modules/
+
+# 临时文件
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# 环境配置（如包含敏感信息，按需保留）
+# project.private.config.json

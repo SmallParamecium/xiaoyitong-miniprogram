@@ -1,0 +1,13 @@
+/* 失物招领列表样式 */
+.page {
+  padding: 20rpx;
+}
+
+.empty-state {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  color: var(--text-light);
+  font-size: 28rpx;
+}

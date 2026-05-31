@@ -1,0 +1,7 @@
+<!-- 首页 -->
+<view class="page">
+  <view class="welcome">
+    <text class="welcome-title">欢迎使用校易通</text>
+    <text class="welcome-desc">校园综合服务系统</text>
+  </view>
+</view>

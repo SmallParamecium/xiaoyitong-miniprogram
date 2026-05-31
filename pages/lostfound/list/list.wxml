@@ -1,0 +1,6 @@
+<!-- 失物招领列表 -->
+<view class="page">
+  <view class="empty-state">
+    <text>失物招领模块开发中...</text>
+  </view>
+</view>
